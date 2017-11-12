@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'tmp2'
+rootProject.name = 'thread-in-action'
